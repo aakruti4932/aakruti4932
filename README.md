@@ -10,8 +10,8 @@
 
 💻 Explore my GitHub repository for a journey through my data adventures, and feel free to connect with me on [LinkedIn](www.linkedin.com/in/aakruti-shah) for more data-driven conversations.
 
-
 🚀 Together, let's elevate the art of data analysis and create solutions that make a meaningful impact!
+
 
 Certifications:
 
